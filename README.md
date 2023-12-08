@@ -1,6 +1,6 @@
 # Quiz Game App
 
-Welcome to the Quiz Game App! Test your knowledge with a variety of fun and challenging questions across different categories. This interactive quiz application is designed and developed by [Your Name].
+Welcome to the Quiz Game App! Test your knowledge with a variety of fun and challenging questions across different categories. This interactive quiz application is designed and developed by me.
 
 ## Live Demo
 Check out the live version of the app [here](https://merndevtinkal.github.io/Quiz-Game-App/).
